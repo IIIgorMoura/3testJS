@@ -7,7 +7,7 @@
 /* fim reset */
 /* fundo */
 header {
-    background-color: #000;
+    background-color: #555;
     height: 80px;
     width: 100vw;
 }
@@ -44,5 +44,9 @@ header {
     font-size: 1.6em;
     transition: 0.5s;
     text-shadow: 4px 4px 6px #0000007a;
+}
+
+.menu-barras {
+    display: none;
 }
 /* fim info */
